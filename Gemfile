@@ -23,6 +23,12 @@ gem 'devise-i18n-views'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
+# 高機能コンソール
+gem 'pry-rails'
+gem 'pry-coolline'
+gem 'awesome_print'
+gem 'hirb'
+gem 'hirb-unicode'
 
 group :development, :test do
   gem 'byebug'
